@@ -111,7 +111,7 @@
             <mxPoint x="750" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-56" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;学生端功能&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-56" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;管理后台功能&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-57" value="薄弱点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
