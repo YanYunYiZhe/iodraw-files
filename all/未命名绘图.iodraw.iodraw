@@ -166,13 +166,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-80" value="记录薄弱点（后台）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ZuLQk8Bii0yO4LKPBbT-75" target="7ZuLQk8Bii0yO4LKPBbT-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-140" y="1080" as="sourcePoint" />
             <mxPoint x="-90" y="1030" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
