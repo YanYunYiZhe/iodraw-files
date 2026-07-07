@@ -61,7 +61,7 @@
           <mxGeometry x="280" y="190" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="570" width="500" height="620" as="geometry" />
+          <mxGeometry x="-330" y="570" width="500" height="660" as="geometry" />
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.997;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7ZuLQk8Bii0yO4LKPBbT-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -175,7 +175,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="1290" width="490" height="420" as="geometry" />
+          <mxGeometry x="-330" y="1290" width="490" height="490" as="geometry" />
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-83" value="题库抽题&lt;div&gt;分类/薄弱点？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="1330" width="120" height="60" as="geometry" />
@@ -201,10 +201,10 @@
             <mxPoint x="-90" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-89" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.592;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7ZuLQk8Bii0yO4LKPBbT-86">
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ZuLQk8Bii0yO4LKPBbT-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-140" y="1440" as="sourcePoint" />
-            <mxPoint x="-90" y="1390" as="targetPoint" />
+            <mxPoint x="40" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
