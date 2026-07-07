@@ -156,6 +156,9 @@
             <mxPoint x="-50" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-75" value="AI错因分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
