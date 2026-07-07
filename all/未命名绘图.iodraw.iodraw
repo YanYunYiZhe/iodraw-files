@@ -75,12 +75,6 @@
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="380" width="300" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-43" value="学生Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-44" value="管理员Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-45" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ZuLQk8Bii0yO4LKPBbT-42" target="7ZuLQk8Bii0yO4LKPBbT-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="680" as="sourcePoint" />
@@ -89,6 +83,9 @@
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-46" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;学生端功能&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="230" y="390" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
