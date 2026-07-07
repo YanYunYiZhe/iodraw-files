@@ -7,10 +7,10 @@
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="50" width="420" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-3" value="学生端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-3" value="学生Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-5" value="管理员端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-5" value="管理员Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-7" value="做题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
