@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="1190" width="500" height="330" as="geometry" />
-        </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="380" width="420" height="100" as="geometry" />
         </mxCell>
@@ -64,7 +61,7 @@
           <mxGeometry x="280" y="190" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="570" width="480" height="560" as="geometry" />
+          <mxGeometry x="-330" y="570" width="480" height="590" as="geometry" />
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.997;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7ZuLQk8Bii0yO4LKPBbT-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -167,9 +164,6 @@
             <mxPoint x="-160" y="880" as="sourcePoint" />
             <mxPoint x="-110" y="830" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-78" value="&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;智能抽题推荐（下一题）&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="1200" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
