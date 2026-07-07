@@ -159,7 +159,7 @@
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-75" value="AI错因分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ZuLQk8Bii0yO4LKPBbT-71">
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ZuLQk8Bii0yO4LKPBbT-71" target="7ZuLQk8Bii0yO4LKPBbT-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-160" y="880" as="sourcePoint" />
             <mxPoint x="-110" y="830" as="targetPoint" />
