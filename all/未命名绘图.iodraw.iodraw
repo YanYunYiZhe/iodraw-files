@@ -99,7 +99,7 @@
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="380" width="420" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-53" value="做题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-53" value="建题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="420" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-54" value="提交判题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
