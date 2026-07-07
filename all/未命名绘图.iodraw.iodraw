@@ -183,7 +183,7 @@
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-84" value="AI根据要求生成题目，并自检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-85" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-85" value="失败&lt;br&gt;同分类 SEED/ADMIN兜底" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
