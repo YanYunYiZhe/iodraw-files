@@ -175,7 +175,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="1290" width="490" height="390" as="geometry" />
+          <mxGeometry x="-330" y="1290" width="490" height="420" as="geometry" />
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-83" value="题库抽题&lt;div&gt;分类/薄弱点？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="1330" width="120" height="60" as="geometry" />
@@ -188,6 +188,12 @@
         </mxCell>
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-86" value="成功&lt;div&gt;AI生成新的题目&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-87" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ZuLQk8Bii0yO4LKPBbT-83" target="7ZuLQk8Bii0yO4LKPBbT-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="1440" as="sourcePoint" />
+            <mxPoint x="-90" y="1390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
