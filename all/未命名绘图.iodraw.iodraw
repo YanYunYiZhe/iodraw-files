@@ -132,11 +132,14 @@
         <mxCell id="7ZuLQk8Bii0yO4LKPBbT-67" value="5条案例判定（2固定，3随机？随机由ai生成？&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7ZuLQk8Bii0yO4LKPBbT-67">
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ZuLQk8Bii0yO4LKPBbT-65" target="7ZuLQk8Bii0yO4LKPBbT-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-170" y="840" as="sourcePoint" />
             <mxPoint x="-120" y="790" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7ZuLQk8Bii0yO4LKPBbT-69" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="760" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
